@@ -1,3 +1,14 @@
+## AI Lab 2
+
+![file upload](src/assets/file_upload.png)
+![file upload replay](src/assets/file_upload_replay.png)
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
